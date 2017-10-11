@@ -1,0 +1,6 @@
+[submodule "SARAH"]
+	path = SARAH
+	url = git@github.com:restrepo/SARAH.git
+[submodule "SPHENO"]
+	path = SPHENO
+	url = git@github.com:restrepo/SPHENO.git
